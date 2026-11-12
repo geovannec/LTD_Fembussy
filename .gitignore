@@ -1,0 +1,3 @@
+# Map binaries are distributed as GitHub Release assets, not source repository files.
+*.w3x
+*.w3m

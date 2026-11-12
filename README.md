@@ -1,9 +1,9 @@
 # LTD Fembussy
 
-Releases públicos do **Legion TD Fembussy**. Este repositório serve para publicar mapas e changelogs e receber relatos de bugs e sugestões. O código-fonte do mapa não é publicado aqui.
+Public releases of **Legion TD Fembussy**. This repository is for publishing map releases and changelogs, and for collecting bug reports and suggestions. Map source code is not published here.
 
-- Baixe os mapas pela aba [Releases](../../releases).
-- Para relatar um bug, abra uma issue e informe a versão, o modo de jogo e os passos para reproduzir.
-- Para sugerir uma mudança, abra uma issue com o rótulo `enhancement`.
+- Download maps from [Releases](../../releases).
+- To report a bug, open an issue and include the version, game mode, and steps to reproduce it.
+- To suggest a change, open an issue with the `enhancement` label.
 
-Esta é uma modificação comunitária não oficial, baseada em Legion TD 11.4c-hf9.
+This is an unofficial community modification based on Legion TD 11.4c-hf9.
