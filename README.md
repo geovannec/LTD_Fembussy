@@ -25,7 +25,7 @@ This repository publishes playable map releases and their changelogs. Use GitHub
 - In-game map name and information updated to Legion TD FEMBUSSY
 - Includes Pick mode, leaver recovery, King healing and unit balance updates, and local match records
 
-Read the [full changelog](releases/1.1.0/CHANGELOG.md) or [download the map](https://github.com/geovannec/LTD_Fembussy/releases/download/v1.1.0/Legion_TD_Fembussy_1.1.0.w3x).
+Read the [full changelog](releases/1.1.0/CHANGELOG.md) or [download the map](https://github.com/geovannec/LTD_Fembussy/releases/download/v1.1.0/Legion_TD_Fembussy_1.1.0.w3x). For the complete comparison with the supplied Team OZE map, see [all FEMBUSSY differences](DIFFERENCES.md).
 
 ## Help improve the map
 

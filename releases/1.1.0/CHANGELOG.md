@@ -27,6 +27,10 @@ The vote-kick threshold drops from **5 votes to 3** when the target has less tha
 
 The Warcraft III map name, quest panel, and in-game information now use the **Legion TD FEMBUSSY** identity. The information panel describes this community edition and its features while preserving credit to the original Team OZE map.
 
+## 🔎 Full OZE comparison
+
+See the [complete file-by-file comparison with the supplied Team OZE map](https://github.com/geovannec/LTD_Fembussy/blob/main/DIFFERENCES.md), including every changed MPQ entry and the gameplay changes.
+
 ## 📦 Release details
 
 | | |
