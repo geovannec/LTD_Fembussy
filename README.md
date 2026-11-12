@@ -18,14 +18,14 @@ This repository publishes playable map releases and their changelogs. Use GitHub
 
 ## Latest release
 
-### [Legion TD Fembussy 1.0.0](https://github.com/geovannec/LTD_Fembussy/releases/tag/v1.0.0)
+### [Legion TD Fembussy 1.1.0](https://github.com/geovannec/LTD_Fembussy/releases/tag/v1.1.0)
 
-- Pick mode and host wave-jump command
-- Team support when a player leaves
-- King healing and unit balance updates
-- Local match record; old ELO/API integration removed
+- `-wave` is host-only and available only with one human player in the match
+- Vote-kick threshold drops from five votes to three for a target below 30% of teammates' average value or income
+- In-game map name and information updated to Legion TD FEMBUSSY
+- Includes Pick mode, leaver recovery, King healing and unit balance updates, and local match records
 
-Read the [full changelog](releases/1.0.0/CHANGELOG.md) or [download the map](https://github.com/geovannec/LTD_Fembussy/releases/download/v1.0.0/Legion_TD_Fembussy_1.0.0.w3x).
+Read the [full changelog](releases/1.1.0/CHANGELOG.md) or [download the map](https://github.com/geovannec/LTD_Fembussy/releases/download/v1.1.0/Legion_TD_Fembussy_1.1.0.w3x).
 
 ## Help improve the map
 
