@@ -1,4 +1,4 @@
-"""Build the public FEmbussy page from the multilingual README."""
+"""Build the public LTDCE page from the multilingual README."""
 from html import escape
 from pathlib import Path
 import re
@@ -9,7 +9,7 @@ import markdown
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = Path(sys.argv[1]).resolve()
-REPO = "https://github.com/geovannec/LTD_Fembussy"
+REPO = "https://github.com/geovannec/LTDCE"
 LANGUAGES = (
     ("English", "en"), ("Русский", "ru"), ("한국어", "ko"),
     ("Português", "pt-BR"), ("Español", "es"), ("Français", "fr"),
@@ -41,4 +41,4 @@ OUTPUT.mkdir(parents=True, exist_ok=True)
     encoding="utf-8",
 )
 shutil.copyfile(ROOT / "site" / "style.css", OUTPUT / "style.css")
-shutil.copyfile(ROOT / "assets" / "fembussy-crest.png", OUTPUT / "crest.png")
+shutil.copyfile(ROOT / "assets" / "ltdce-crest.png", OUTPUT / "crest.png")

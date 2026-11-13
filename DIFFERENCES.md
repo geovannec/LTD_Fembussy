@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/geovannec/LTD_Fembussy/main/assets/fembussy-crest.png" width="130" alt="Legion TD Fembussy crest" />
+  <img src="https://raw.githubusercontent.com/geovannec/LTD_Fembussy/main/assets/ltdce-crest.png" width="130" alt="Legion TD Fembussy crest" />
   <h1>LEGION TD OZE → FEMBUSSY</h1>
   <p><strong>COMPLETE CHANGE RECORD · VERSION 1.1.0</strong></p>
   <p>A file-by-file and gameplay comparison of the supplied Team OZE map and the published FEMBUSSY edition.</p>
@@ -8,6 +8,8 @@
 ---
 
 ## Comparison scope
+
+Legion TD Community Enhanced 1.1.1 retains these gameplay changes. The names and version numbers below describe the historical 1.1.0 build. [Notes for 1.1.1](releases/1.1.1/CHANGELOG.md)
 
 This comparison uses the supplied **Legion TD 11.4c-hf9 Team OZE** map as the baseline and **Legion TD FEMBUSSY 1.1.0** as the finished map. FEMBUSSY is an unofficial community edition based on that 11.4c-hf9 map.
 
@@ -84,8 +86,8 @@ No other named or unnamed MPQ entries differed in this comparison.
 
 ## Downloads and release notes
 
-- [Download FEMBUSSY 1.1.0](https://github.com/geovannec/LTD_Fembussy/releases/download/v1.1.0/Legion_TD_Fembussy_1.1.0.w3x)
-- [Read the 1.1.0 release notes](https://github.com/geovannec/LTD_Fembussy/blob/main/releases/1.1.0/CHANGELOG.md)
+- [Download FEMBUSSY 1.1.0](https://github.com/geovannec/LTDCE/releases/download/v1.1.0/Legion_TD_Fembussy_1.1.0.w3x)
+- [Read the 1.1.0 release notes](https://github.com/geovannec/LTDCE/blob/main/releases/1.1.0/CHANGELOG.md)
 
 > The repository publishes release files and documentation. It does not publish map source code.
 

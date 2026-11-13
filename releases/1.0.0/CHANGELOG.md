@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/geovannec/LTD_Fembussy/main/assets/fembussy-crest.png" width="150" alt="Legion TD Fembussy phoenix and tower crest" />
+  <img src="https://raw.githubusercontent.com/geovannec/LTD_Fembussy/main/assets/ltdce-crest.png" width="150" alt="Legion TD Fembussy phoenix and tower crest" />
   <h1>LEGION TD FEMBUSSY</h1>
   <p><strong>VERSION 1.0.0 · FIRST PUBLIC RELEASE</strong></p>
   <p>A fresh community edition of Legion TD 11.4c-hf9, built around player choice, clearer match control, and stronger recovery tools.</p>
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/BASE-11.4c--hf9-7d4ac7?style=for-the-badge" alt="Based on 11.4c-hf9" />
     <img src="https://img.shields.io/badge/TYPE-COMMUNITY%20EDITION-242337?style=for-the-badge" alt="Community edition" />
   </p>
-  <p><a href="https://github.com/geovannec/LTD_Fembussy/releases/download/v1.0.0/Legion_TD_Fembussy_1.0.0.w3x"><strong>⬇ Download the map</strong></a></p>
+  <p><a href="https://github.com/geovannec/LTDCE/releases/download/v1.0.0/Legion_TD_Fembussy_1.0.0.w3x"><strong>⬇ Download the map</strong></a></p>
 </div>
 
 ---
@@ -62,7 +62,7 @@ The former ranking score area now displays an incremental local record of games 
 | --- | --- |
 | **Map file** | `Legion_TD_Fembussy_1.0.0.w3x` |
 | **Game version** | Legion TD 11.4c-hf9 base |
-| **Release tag** | [`v1.0.0`](https://github.com/geovannec/LTD_Fembussy/releases/tag/v1.0.0) |
+| **Release tag** | [`v1.0.0`](https://github.com/geovannec/LTDCE/releases/tag/v1.0.0) |
 
 > **Validation status:** The MPQ archive and embedded map name were checked. Full multiplayer matches and local save behavior still need in-client testing in Warcraft III.
 

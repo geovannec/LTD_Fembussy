@@ -7,7 +7,7 @@ on:
     paths:
       - README.md
       - site/**
-      - assets/fembussy-crest.png
+      - assets/ltdce-crest.png
       - .github/workflows/pages.yml
 
 permissions:

@@ -1,5 +1,5 @@
 name: Sugerir uma mudança / Suggest a change
-description: Conte o que melhoraria suas partidas de FEmbussy.
+description: Conte o que melhoraria suas partidas de LTDCE.
 title: "[Sugestão] "
 labels:
   - enhancement
@@ -17,4 +17,4 @@ body:
     attributes:
       label: Contexto da partida / Match context (opcional)
       description: Versão do mapa, modo e onda. Para desempenho, informe também seu hardware e a versão do Warcraft III.
-      placeholder: "FEmbussy 1.1.0, X1, onda 15"
+      placeholder: "LTDCE 1.1.1, X1, onda 15"

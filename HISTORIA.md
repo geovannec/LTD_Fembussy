@@ -1,4 +1,4 @@
-# Da primeira lane à FEmbussy
+# Da primeira lane ao LTDCE
 
 Em 2009, Lisk criou Legion TD como um mapa de Warcraft III. Cada jogador montava sua defesa em uma lane. Quando a onda começava, as construções viravam combatentes e lutavam sozinhas. As decisões tomadas antes da luta, de posicionamento a economia, podiam salvar seu Rei ou decidir a partida para a outra equipe. [A história contada pela equipe de Legion TD](https://beta.legiontd2.com/updates/the-story-of-legion-td/)
 
@@ -6,6 +6,6 @@ A comunidade de Warcraft III seguiu jogando e adaptando o mapa. O Team OZE mante
 
 A 11.5-beta mexeu em decisões que faziam parte de toda partida. O alcance das unidades corpo a corpo passou a seguir seu papel, o ouro das arenas mudou e a cura do Rei no Long Game passou a ter limite. Entre as pessoas com quem jogávamos, houve frustração com parte dessas mudanças e com o tempo de espera por ajustes. Foi nesse contexto que a gente se interessou por novas versões da 11.4c-hf9 e decidiu fazer a nossa. [Notas da 11.5-beta do Team OZE](https://github.com/team-oze/Legion-TD/releases/tag/v11.5-beta)
 
-A FEmbussy nasceu para aquela partida que você marca com amigos e quer repetir na noite seguinte. A gente tirou o ELO, manteve um histórico pessoal de partidas e colocou no mapa mudanças como o Pick opcional e a recuperação do Rei. Queremos lançar ajustes em ciclos curtos, ouvir quem traz experiência de partida e trabalhar para que PCs mais antigos também tenham espaço no lobby. Os ganhos de desempenho serão publicados conforme forem medidos. [O que mudou na FEmbussy](DIFFERENCES.md)
+O projeto nasceu com o nome FEmbussy, uma piada interna do grupo. Ao abrir o mapa para mais gente, adotamos o nome **Legion TD Community Enhanced (LTDCE)**. A edição nasceu para aquela partida que você marca com amigos e quer repetir na noite seguinte. A gente tirou o ELO, manteve um histórico pessoal de partidas e colocou no mapa mudanças como o Pick opcional e a recuperação do Rei. Queremos lançar ajustes em ciclos curtos, ouvir quem traz experiência de partida e trabalhar para que PCs mais antigos também tenham espaço no lobby. Os ganhos de desempenho serão publicados conforme forem medidos. [O que mudou no LTDCE](DIFFERENCES.md)
 
 O próximo capítulo vem das partidas de vocês. Conta pra gente o que funcionou, o que estragou a brincadeira e qual mudança você votaria para testar primeiro. [Como participar](COMUNIDADE.md)

@@ -6,7 +6,7 @@ body { margin: 0; color: var(--ink); background: radial-gradient(ellipse at 18% 
 .hero img { width: min(34%, 14.5rem); height: auto; object-fit: contain; }
 .version { color: var(--accent); font-size: .9rem; font-weight: 650; }
 h1, h2 { font-family: Georgia, serif; line-height: 1.06; margin: 0 0 1rem; }
-h1 { font-size: clamp(3rem, 10vw, 6rem); letter-spacing: -.045em; }
+h1 { font-size: clamp(2.6rem, 8vw, 4.7rem); letter-spacing: -.045em; }
 h2 { font-size: clamp(1.8rem, 5vw, 2.6rem); }
 .intro { max-width: 33rem; color: var(--soft); }
 a { color: var(--accent); text-underline-offset: .22em; }
@@ -24,7 +24,7 @@ li + li { margin-top: .65rem; }
 code { color: var(--ink); background: #302330; padding: .1em .22em; border-radius: .2rem; }
 footer { border-top: 1px solid var(--border); padding-block: 1rem 2rem; color: var(--soft); }
 @media (max-width: 38rem) {
-  .hero { align-items: flex-start; position: relative; }
-  .hero img { width: 22%; margin-top: 2.7rem; }
+  .hero { align-items: flex-start; flex-direction: column; }
+  .hero img { width: 5.5rem; }
   .hero > div { min-width: 0; }
 }
