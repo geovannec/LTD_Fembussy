@@ -1,5 +1,7 @@
 # Como participar do LTDCE
 
+[Guia de votação para jogadores em seis idiomas](COMMUNITY.md#português)
+
 [Enviar sugestão](https://github.com/ltdce/LTDCE/issues/new?template=sugestao.yml) · [Ver ideias abertas](https://github.com/ltdce/LTDCE/issues?q=is%3Aissue%20is%3Aopen%20label%3Aenhancement) · [Reportar bug](https://github.com/ltdce/LTDCE/issues/new?labels=bug)
 
 Você pode sugerir mudanças de balanceamento, modos, interface, desempenho ou qualquer coisa que melhore as partidas. Procure primeiro se alguém já propôs a mesma ideia. Se encontrar, apoie com 👍 e conte o que viu em jogo. Para criar uma sugestão, descreva em poucas frases o problema e a mudança que você quer experimentar. Versão do mapa, modo e onda ajudam quando a ideia nasceu de uma partida. Participar pelo GitHub requer uma conta GitHub.

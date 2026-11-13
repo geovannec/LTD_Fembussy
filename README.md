@@ -12,7 +12,7 @@
 
 **Some changes are time-limited.** Big gameplay or meta changes may run as experiments with an announced end date. Player feedback helps decide whether to keep, revise, or retire them. A monthly **CHAOS META** mode is a future idea for trying bigger changes in its own mode.
 
-[Suggest a change][ideas] · [Support an existing idea][open-ideas] · [Monthly voting guide (Portuguese)][community]
+[Suggest a change][ideas] · [Support an existing idea][open-ideas] · [Monthly voting guide][community-en]
 
 LTDCE is an unofficial community edition of Team OZE’s Legion TD 11.4c-hf9. We want shorter release cycles, changes informed by players’ matches, and better performance on older PCs. Performance is a goal we still need to measure.
 
@@ -25,7 +25,7 @@ LTDCE is an unofficial community edition of Team OZE’s Legion TD 11.4c-hf9. We
 - **Local stats.** The map tracks games, wins and leaves locally. Online Elo and the old ranking integration are disabled.
 - **Unit balance.** Ent/Guardian root repeats after 6 seconds instead of 20. Wolverine’s Madness damage immunity lasts 3 seconds instead of 1.5. The activation threshold still needs in-game confirmation, so treat the tooltip’s 20% as display text.
 
-[Download 1.1.1][download] · [Changelog][release] · [Full changes][changes] · [Suggest an idea][ideas] · [Report a bug][bugs] · [Monthly vote guide (Portuguese)][community] · [Project history (Portuguese)][history]
+[Download 1.1.1][download] · [Changelog][release] · [Full changes][changes] · [Suggest an idea][ideas] · [Report a bug][bugs] · [Monthly voting guide][community-en] · [Project history (Portuguese)][history]
 
 ## Русский
 
@@ -33,7 +33,7 @@ LTDCE is an unofficial community edition of Team OZE’s Legion TD 11.4c-hf9. We
 
 **Часть изменений будет временной.** Крупные изменения игрового процесса или меты могут выйти в виде экспериментов с заранее объявленной датой окончания. Отзывы помогут решить, что оставить, доработать или убрать. Ежемесячный **CHAOS META** — идея на будущее для проверки крупных изменений в отдельном режиме.
 
-[Предложить изменение][ideas] · [Поддержать идею][open-ideas] · [Порядок голосования (на португальском)][community]
+[Предложить изменение][ideas] · [Поддержать идею][open-ideas] · [Порядок ежемесячного голосования][community-ru]
 
 LTDCE — неофициальная версия Legion TD 11.4c-hf9 от Team OZE для Warcraft III. Мы хотим чаще выпускать обновления, учитывать опыт игроков и улучшать работу карты на старых ПК. Прирост производительности ещё предстоит измерить.
 
@@ -46,7 +46,7 @@ LTDCE — неофициальная версия Legion TD 11.4c-hf9 от Team 
 - **Личная статистика.** Матчи, победы и выходы сохраняются локально. Сетевой Elo и прежняя интеграция рейтинга отключены.
 - **Баланс бойцов.** Повторное применение корней Ent/Guardian занимает 6 секунд вместо 20. Неуязвимость к урону от Madness у Wolverine длится 3 секунды вместо 1,5. Порог срабатывания ещё предстоит проверить в игре. В подсказке указано 20%.
 
-[Скачать 1.1.1][download] · [История изменений][release] · [Все изменения][changes] · [Предложить идею][ideas] · [Сообщить об ошибке][bugs] · [Голосование (на португальском)][community] · [История проекта (на португальском)][history]
+[Скачать 1.1.1][download] · [История изменений][release] · [Все изменения][changes] · [Предложить идею][ideas] · [Сообщить об ошибке][bugs] · [Порядок ежемесячного голосования][community-ru] · [История проекта (на португальском)][history]
 
 ## 한국어
 
@@ -54,7 +54,7 @@ LTDCE — неофициальная версия Legion TD 11.4c-hf9 от Team 
 
 **일부 변경은 기간 한정입니다.** 게임 방식이나 메타를 크게 바꾸는 변경은 종료일을 미리 알리고 실험적으로 적용할 수 있습니다. 플레이어 의견을 바탕으로 유지, 수정 또는 종료를 결정합니다. 매달 큰 변화를 별도 모드에서 시험하는 **CHAOS META**는 앞으로의 아이디어입니다.
 
-[변경 제안하기][ideas] · [기존 아이디어 지지하기][open-ideas] · [월간 투표 안내·포르투갈어][community]
+[변경 제안하기][ideas] · [기존 아이디어 지지하기][open-ideas] · [월간 투표 안내][community-ko]
 
 LTDCE는 Team OZE의 Legion TD 11.4c-hf9를 바탕으로 만든 워크래프트 III 비공식 커뮤니티 버전입니다. 플레이 경험을 반영해 자주 업데이트하고 오래된 PC에서의 성능도 개선하는 것이 목표입니다. 성능 향상은 앞으로 측정할 예정입니다.
 
@@ -67,7 +67,7 @@ LTDCE는 Team OZE의 Legion TD 11.4c-hf9를 바탕으로 만든 워크래프트 
 - **로컬 전적.** 경기 수, 승리 수, 이탈 횟수를 로컬에 저장합니다. 온라인 Elo와 기존 랭킹 연동은 비활성화되어 있습니다.
 - **유닛 조정.** Ent/Guardian의 속박 재사용 간격이 20초에서 6초로 줄었습니다. Wolverine의 Madness 피해 면역은 1.5초에서 3초로 늘었습니다. 발동 기준은 게임에서 확인이 필요하며 툴팁에는 20%로 표시됩니다.
 
-[1.1.1 다운로드][download] · [릴리스 노트][release] · [전체 변경 사항][changes] · [제안하기][ideas] · [버그 신고][bugs] · [월간 투표 안내·포르투갈어][community] · [프로젝트 이야기·포르투갈어][history]
+[1.1.1 다운로드][download] · [릴리스 노트][release] · [전체 변경 사항][changes] · [제안하기][ideas] · [버그 신고][bugs] · [월간 투표 안내][community-ko] · [프로젝트 이야기·포르투갈어][history]
 
 ## Português
 
@@ -75,7 +75,7 @@ LTDCE는 Team OZE의 Legion TD 11.4c-hf9를 바탕으로 만든 워크래프트 
 
 **Algumas mudanças têm prazo.** Mudanças grandes de gameplay ou de meta podem entrar como experiências com data de encerramento anunciada. O feedback das partidas ajuda a decidir o que fica, o que precisa de ajuste e o que sai. Um modo mensal **CHAOS META** é uma ideia para testar mudanças maiores em um modo próprio no futuro.
 
-[Sugerir mudança][ideas] · [Apoiar uma ideia][open-ideas] · [Como funciona a votação mensal][community]
+[Sugerir mudança][ideas] · [Apoiar uma ideia][open-ideas] · [Guia de votação mensal][community-pt]
 
 A LTDCE é uma edição comunitária não oficial da Legion TD 11.4c-hf9 do Team OZE para Warcraft III. Queremos lançar ajustes em ciclos curtos, ouvir quem joga e melhorar o desempenho em PCs antigos. O ganho de desempenho ainda precisa ser medido.
 
@@ -88,7 +88,7 @@ A LTDCE é uma edição comunitária não oficial da Legion TD 11.4c-hf9 do Team
 - **Histórico local.** O jogo salva partidas, vitórias e saídas localmente. O ELO online e a antiga integração de ranking estão desativados.
 - **Ajustes de unidades.** A raiz de Ent/Guardian passa de 20 para 6 segundos entre usos. A imunidade a dano do Madness de Wolverine passa de 1,5 para 3 segundos. O limiar de ativação ainda precisa ser conferido em jogo. O tooltip mostra 20%.
 
-[Baixar 1.1.1][download] · [Notas da versão][release] · [Comparação completa][changes] · [Sugerir ideia][ideas] · [Reportar bug][bugs] · [Votação mensal][community] · [Nossa história][history]
+[Baixar 1.1.1][download] · [Notas da versão][release] · [Comparação completa][changes] · [Sugerir ideia][ideas] · [Reportar bug][bugs] · [Guia de votação mensal][community-pt] · [Nossa história][history]
 
 ## Español
 
@@ -96,7 +96,7 @@ A LTDCE é uma edição comunitária não oficial da Legion TD 11.4c-hf9 do Team
 
 **Algunos cambios duran un tiempo limitado.** Los cambios importantes de jugabilidad o del meta pueden probarse con una fecha de cierre anunciada. Los comentarios de los jugadores ayudan a decidir qué se mantiene, qué se ajusta y qué se retira. Un modo mensual **CHAOS META** es una idea para probar cambios grandes en un modo propio en el futuro.
 
-[Proponer un cambio][ideas] · [Apoyar una idea][open-ideas] · [Guía de votación mensual en portugués][community]
+[Proponer un cambio][ideas] · [Apoyar una idea][open-ideas] · [Guía de votación mensual][community-es]
 
 LTDCE es una edición comunitaria no oficial de Legion TD 11.4c-hf9 de Team OZE para Warcraft III. Buscamos ciclos de actualización más cortos, cambios basados en la experiencia de los jugadores y mejoras de rendimiento en equipos antiguos. Aún falta medir esas mejoras.
 
@@ -109,7 +109,7 @@ LTDCE es una edición comunitaria no oficial de Legion TD 11.4c-hf9 de Team OZE 
 - **Estadísticas locales.** Las partidas, victorias y salidas se guardan localmente. El Elo en línea y la antigua integración de clasificación están desactivados.
 - **Ajustes de unidades.** La inmovilización de Ent/Guardian se puede repetir cada 6 segundos en vez de 20. La inmunidad al daño de Madness de Wolverine dura 3 segundos en vez de 1,5. Aún hay que comprobar en partida el umbral de activación. La descripción muestra un 20 %.
 
-[Descargar 1.1.1][download] · [Notas de la versión][release] · [Cambios completos][changes] · [Proponer una idea][ideas] · [Informar de un fallo][bugs] · [Votación mensual en portugués][community] · [Historia del proyecto en portugués][history]
+[Descargar 1.1.1][download] · [Notas de la versión][release] · [Cambios completos][changes] · [Proponer una idea][ideas] · [Informar de un fallo][bugs] · [Guía de votación mensual][community-es] · [Historia del proyecto en portugués][history]
 
 ## Français
 
@@ -117,7 +117,7 @@ LTDCE es una edición comunitaria no oficial de Legion TD 11.4c-hf9 de Team OZE 
 
 **Certains changements sont temporaires.** Les changements importants de gameplay ou de méta peuvent être testés avec une date de fin annoncée. Les retours des joueurs aident à décider lesquels garder, ajuster ou retirer. Un mode mensuel **CHAOS META** est une idée pour tester de grands changements dans un mode dédié à l’avenir.
 
-[Proposer un changement][ideas] · [Soutenir une idée][open-ideas] · [Guide du vote mensuel en portugais][community]
+[Proposer un changement][ideas] · [Soutenir une idée][open-ideas] · [Guide du vote mensuel][community-fr]
 
 LTDCE est une édition communautaire non officielle de Legion TD 11.4c-hf9 de Team OZE pour Warcraft III. Nous voulons publier des mises à jour plus fréquentes, partir de l’expérience des joueurs et améliorer les performances sur les anciens PC. Ces gains restent à mesurer.
 
@@ -130,7 +130,7 @@ LTDCE est une édition communautaire non officielle de Legion TD 11.4c-hf9 de Te
 - **Statistiques locales.** Les parties, victoires et départs sont enregistrés localement. L’Elo en ligne et l’ancienne intégration de classement sont désactivés.
 - **Équilibrage.** L’immobilisation d’Ent/Guardian peut se répéter après 6 secondes au lieu de 20. L’immunité aux dégâts de Madness de Wolverine dure 3 secondes au lieu de 1,5. Le seuil de déclenchement reste à confirmer en jeu. L’infobulle indique 20 %.
 
-[Télécharger la 1.1.1][download] · [Notes de version][release] · [Tous les changements][changes] · [Proposer une idée][ideas] · [Signaler un bug][bugs] · [Vote mensuel en portugais][community] · [Histoire du projet en portugais][history]
+[Télécharger la 1.1.1][download] · [Notes de version][release] · [Tous les changements][changes] · [Proposer une idée][ideas] · [Signaler un bug][bugs] · [Guide du vote mensuel][community-fr] · [Histoire du projet en portugais][history]
 
 ---
 
@@ -141,6 +141,11 @@ Original Legion TD map by Lisk. Base map by Team OZE. LTDCE distributes compiled
 [changes]: DIFFERENCES.md
 [ideas]: https://github.com/ltdce/LTDCE/issues/new?template=sugestao.yml
 [bugs]: https://github.com/ltdce/LTDCE/issues/new?labels=bug
-[community]: COMUNIDADE.md
+[community-en]: COMMUNITY.md#english
+[community-ru]: COMMUNITY.md#русский
+[community-ko]: COMMUNITY.md#한국어
+[community-pt]: COMMUNITY.md#português
+[community-es]: COMMUNITY.md#español
+[community-fr]: COMMUNITY.md#français
 [history]: HISTORIA.md
 [open-ideas]: https://github.com/ltdce/LTDCE/issues?q=is%3Aissue%20is%3Aopen%20label%3Aenhancement
