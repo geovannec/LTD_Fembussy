@@ -86,8 +86,8 @@ No other named or unnamed MPQ entries differed in this comparison.
 
 ## Downloads and release notes
 
-- [Download FEMBUSSY 1.1.0](https://github.com/geovannec/LTDCE/releases/download/v1.1.0/Legion_TD_Fembussy_1.1.0.w3x)
-- [Read the 1.1.0 release notes](https://github.com/geovannec/LTDCE/blob/main/releases/1.1.0/CHANGELOG.md)
+- [Download FEMBUSSY 1.1.0](https://github.com/ltdce/LTDCE/releases/download/v1.1.0/Legion_TD_Fembussy_1.1.0.w3x)
+- [Read the 1.1.0 release notes](https://github.com/ltdce/LTDCE/blob/main/releases/1.1.0/CHANGELOG.md)
 
 > The repository publishes release files and documentation. It does not publish map source code.
 

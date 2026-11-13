@@ -9,7 +9,7 @@ import markdown
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = Path(sys.argv[1]).resolve()
-REPO = "https://github.com/geovannec/LTDCE"
+REPO = "https://github.com/ltdce/LTDCE"
 LANGUAGES = (
     ("English", "en"), ("Русский", "ru"), ("한국어", "ko"),
     ("Português", "pt-BR"), ("Español", "es"), ("Français", "fr"),

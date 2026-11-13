@@ -4,8 +4,8 @@ LTDCE is the new name for the Warcraft III map previously released as Legion TD 
 
 This release updates the map’s identity. The gameplay and balance are carried over from 1.1.0, and the local match record uses the same save format.
 
-- [Download Legion TD Community Enhanced 1.1.1](https://github.com/geovannec/LTDCE/releases/download/v1.1.1/Legion_TD_Community_Enhanced_1.1.1.w3x)
-- [Read the player guide](https://github.com/geovannec/LTDCE#english)
-- [Compare gameplay with Team OZE 11.4c-hf9](https://github.com/geovannec/LTDCE/blob/main/DIFFERENCES.md)
+- [Download Legion TD Community Enhanced 1.1.1](https://github.com/ltdce/LTDCE/releases/download/v1.1.1/Legion_TD_Community_Enhanced_1.1.1.w3x)
+- [Read the player guide](https://github.com/ltdce/LTDCE#english)
+- [Compare gameplay with Team OZE 11.4c-hf9](https://github.com/ltdce/LTDCE/blob/main/DIFFERENCES.md)
 
 Original Legion TD map by Lisk. Base map by Team OZE.

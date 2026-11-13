@@ -14,7 +14,7 @@ The project adopts the name **Legion TD Community Enhanced (LTDCE)**. The map ti
     <img src="https://img.shields.io/badge/BASE-11.4c--hf9-7d4ac7?style=for-the-badge" alt="Based on 11.4c-hf9" />
     <img src="https://img.shields.io/badge/TYPE-COMMUNITY%20EDITION-242337?style=for-the-badge" alt="Community edition" />
   </p>
-  <p><a href="https://github.com/geovannec/LTDCE/releases/download/v1.1.0/Legion_TD_Fembussy_1.1.0.w3x"><strong>⬇ DOWNLOAD THE MAP</strong></a></p>
+  <p><a href="https://github.com/ltdce/LTDCE/releases/download/v1.1.0/Legion_TD_Fembussy_1.1.0.w3x"><strong>⬇ DOWNLOAD THE MAP</strong></a></p>
 </div>
 
 ---
@@ -35,7 +35,7 @@ The Warcraft III map name, quest panel, and in-game information now use the **Le
 
 ## 🔎 Full OZE comparison
 
-See the [complete file-by-file comparison with the supplied Team OZE map](https://github.com/geovannec/LTDCE/blob/main/DIFFERENCES.md), including every changed MPQ entry and the gameplay changes.
+See the [complete file-by-file comparison with the supplied Team OZE map](https://github.com/ltdce/LTDCE/blob/main/DIFFERENCES.md), including every changed MPQ entry and the gameplay changes.
 
 ## 📦 Release details
 
@@ -43,7 +43,7 @@ See the [complete file-by-file comparison with the supplied Team OZE map](https:
 | --- | --- |
 | **Map file** | `Legion_TD_Fembussy_1.1.0.w3x` |
 | **Base** | Legion TD 11.4c-hf9 |
-| **Release tag** | [`v1.1.0`](https://github.com/geovannec/LTDCE/releases/tag/v1.1.0) |
+| **Release tag** | [`v1.1.0`](https://github.com/ltdce/LTDCE/releases/tag/v1.1.0) |
 | **Map name** | Legion TD FEMBUSSY 1.1.0 |
 
 > **Validation:** The map archive was rebuilt and reopened successfully. Its embedded map name, author, description, branding strings, and Lua payload were checked. In-client multiplayer behavior still needs a Warcraft III session to verify.

@@ -2,7 +2,7 @@
 
 **A living Warcraft III Legion TD map, shaped by the people who play it.**
 
-[Official project site](https://geovannec.github.io/LTDCE/)
+[Official project site](https://ltdce.github.io/)
 
 [English](#english) · [Русский](#русский) · [한국어](#한국어) · [Português](#português) · [Español](#español) · [Français](#français)
 
@@ -136,11 +136,11 @@ LTDCE est une édition communautaire non officielle de Legion TD 11.4c-hf9 de Te
 
 Original Legion TD map by Lisk. Base map by Team OZE. LTDCE distributes compiled Warcraft III maps and release notes.
 
-[download]: https://github.com/geovannec/LTDCE/releases/download/v1.1.1/Legion_TD_Community_Enhanced_1.1.1.w3x
-[release]: https://github.com/geovannec/LTDCE/releases/tag/v1.1.1
+[download]: https://github.com/ltdce/LTDCE/releases/download/v1.1.1/Legion_TD_Community_Enhanced_1.1.1.w3x
+[release]: https://github.com/ltdce/LTDCE/releases/tag/v1.1.1
 [changes]: DIFFERENCES.md
-[ideas]: https://github.com/geovannec/LTDCE/issues/new?template=sugestao.yml
-[bugs]: https://github.com/geovannec/LTDCE/issues/new?labels=bug
+[ideas]: https://github.com/ltdce/LTDCE/issues/new?template=sugestao.yml
+[bugs]: https://github.com/ltdce/LTDCE/issues/new?labels=bug
 [community]: COMUNIDADE.md
 [history]: HISTORIA.md
-[open-ideas]: https://github.com/geovannec/LTDCE/issues?q=is%3Aissue%20is%3Aopen%20label%3Aenhancement
+[open-ideas]: https://github.com/ltdce/LTDCE/issues?q=is%3Aissue%20is%3Aopen%20label%3Aenhancement
