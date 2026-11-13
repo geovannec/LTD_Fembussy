@@ -21,7 +21,7 @@
 
 ### ⚖️ Extreme underperformance lowers the vote-kick threshold
 
-The vote-kick threshold drops from **5 votes to 3** when the target has less than **30% of their active teammates' average unit value or income**. The existing threshold remains in effect for other targets.
+Type `-vk` to open the vote-kick menu. The usual vote requirement is capped at **3** if the target’s unit value or income is **strictly below 30%** of the corresponding average for their other active teammates. For example, 299 in unit value qualifies when their teammates average 1,000. A value of 300 by itself does not qualify. Otherwise, the original requirement applies.
 
 ### 🏷️ The map identifies as Legion TD FEMBUSSY
 

@@ -45,7 +45,7 @@ When a player leaves during a match, the remaining players on that team receive 
 
 ### Vote-kick
 
-The required votes drop from **5 to 3** when the target has less than **30% of the active teammates’ average value or income**. Other targets use the original vote threshold.
+Type `-vk` to open the vote-kick menu. The usual vote requirement is capped at **3** if the target’s unit value or income is **strictly below 30%** of the corresponding average for their other active teammates. For example, 299 in unit value qualifies when their teammates average 1,000. A value of 300 by itself does not qualify. Otherwise, the original requirement applies.
 
 ### Unit changes
 

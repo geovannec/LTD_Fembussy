@@ -1,0 +1,20 @@
+name: Sugerir uma mudança / Suggest a change
+description: Conte o que melhoraria suas partidas de FEmbussy.
+title: "[Sugestão] "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: ideia
+    attributes:
+      label: O que você mudaria? / What would you change?
+      description: Explique a ideia e como ela melhoraria a partida.
+      placeholder: "Eu mudaria… porque nas minhas partidas…"
+    validations:
+      required: true
+  - type: input
+    id: contexto
+    attributes:
+      label: Contexto da partida / Match context (opcional)
+      description: Versão do mapa, modo e onda. Para desempenho, informe também seu hardware e a versão do Warcraft III.
+      placeholder: "FEmbussy 1.1.0, X1, onda 15"

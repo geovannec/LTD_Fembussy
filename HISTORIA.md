@@ -1,0 +1,11 @@
+# Da primeira lane à FEmbussy
+
+Em 2009, Lisk criou Legion TD como um mapa de Warcraft III. Cada jogador montava sua defesa em uma lane. Quando a onda começava, as construções viravam combatentes e lutavam sozinhas. As decisões tomadas antes da luta, de posicionamento a economia, podiam salvar seu Rei ou decidir a partida para a outra equipe. [A história contada pela equipe de Legion TD](https://beta.legiontd2.com/updates/the-story-of-legion-td/)
+
+A comunidade de Warcraft III seguiu jogando e adaptando o mapa. O Team OZE manteve sua própria edição, com versões que passaram pela 5.0 e chegaram à série 11.4. A 11.4c-hf9 trouxe compatibilidade com Warcraft III 3.0.1 e acabou sendo a versão à qual nosso grupo quis voltar. [Releases da edição 5.0](https://github.com/Team-OZE/LegionTD-Map/releases) · [Release 11.4c-hf9](https://github.com/team-oze/Legion-TD/releases/tag/v11.4c-hf9)
+
+A 11.5-beta mexeu em decisões que faziam parte de toda partida. O alcance das unidades corpo a corpo passou a seguir seu papel, o ouro das arenas mudou e a cura do Rei no Long Game passou a ter limite. Entre as pessoas com quem jogávamos, houve frustração com parte dessas mudanças e com o tempo de espera por ajustes. Foi nesse contexto que a gente se interessou por novas versões da 11.4c-hf9 e decidiu fazer a nossa. [Notas da 11.5-beta do Team OZE](https://github.com/team-oze/Legion-TD/releases/tag/v11.5-beta)
+
+A FEmbussy nasceu para aquela partida que você marca com amigos e quer repetir na noite seguinte. A gente tirou o ELO, manteve um histórico pessoal de partidas e colocou no mapa mudanças como o Pick opcional e a recuperação do Rei. Queremos lançar ajustes em ciclos curtos, ouvir quem traz experiência de partida e trabalhar para que PCs mais antigos também tenham espaço no lobby. Os ganhos de desempenho serão publicados conforme forem medidos. [O que mudou na FEmbussy](DIFFERENCES.md)
+
+O próximo capítulo vem das partidas de vocês. Conta pra gente o que funcionou, o que estragou a brincadeira e qual mudança você votaria para testar primeiro. [Como participar](COMUNIDADE.md)
